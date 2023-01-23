@@ -4,3 +4,4 @@ JavaScript Basic Operations
 => JavaScript string methods
 => JavaScript nummber methods
 => JavaScript date methods
+=> JavaScript Math methods
